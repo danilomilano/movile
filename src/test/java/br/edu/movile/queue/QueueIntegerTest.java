@@ -1,4 +1,4 @@
-package br.edu.movile;
+package br.edu.movile.queue;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
